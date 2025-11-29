@@ -5,7 +5,7 @@ Developer
 ---------
 
 * 🌍  I'm based in Czech Republic
-* 🧠  I'm currently learning C++
+* 🧠  I'm currently learning JavaScript + Python ---> Will be getting onto C++ when happy with my JS and Python skills.
 
 <p align="left">
 <!-- Programming Languages -->
