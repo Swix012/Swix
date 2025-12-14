@@ -1,7 +1,7 @@
 Hi! My name is Swix
 =====================================================================================================================================
 
-Developer
+Programmer & Beginner Ethical Hacker
 ---------
 
 * 🌍  I'm based in Czech Republic
