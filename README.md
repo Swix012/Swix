@@ -5,7 +5,7 @@ Programmer & Beginner Ethical Hacker
 ---------
 
 * 🌍  I'm based in Czech Republic
-* 🧠  I'm currently learning C++.
+* 🧠  I'm currently learning Rust?  
 
 <p align="left">
 <!-- Programming Languages -->
