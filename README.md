@@ -38,5 +38,4 @@ Programmer & Beginner Ethical Hacker
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/unixporn/distro-icons/refs/heads/master/SVG/arch.svg" alt="Arch" title="Arch" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-<h2><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6438187" style='border:none;'></iframe>></h2>
 PS : Thanks to @pavelknespl for inspiration❤️
