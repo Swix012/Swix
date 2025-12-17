@@ -5,7 +5,8 @@ Programmer & Beginner Ethical Hacker
 ---------
 
 * 🌍  I'm based in Czech Republic
-* 🧠  I'm currently learning Rust?  
+* 🧠  I'm currently learning Rust? 
+* 🌍  My tryhackme account : https://tryhackme.com/p/Swix012. 
 
 <p align="left">
 <!-- Programming Languages -->
